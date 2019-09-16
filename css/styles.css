@@ -12,7 +12,8 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 2.5em;
+  font-size: 3em;
+  color: #b69859;
 }
 
 
@@ -20,7 +21,7 @@ select {
   width: 300px;
   height: 40px;
   overflow: hidden;
-  background: url(new_arrow.png) no-repeat right #ddd;
+  /*background: url(new_arrow.png) no-repeat right #ddd;*/
   border: 1px solid #ccc;
 }
 
@@ -57,6 +58,7 @@ h4 {
 
 span {
   margin-left: 20px;
+  font-size: 16px;
   font-style: italic;
   font-weight: bold;
 }
@@ -64,3 +66,25 @@ span {
 hr {
   margin-top: 30px;
 }
+#separacion{
+  height: 30px;
+  border-bottom: 2px solid black;
+}
+p{
+  font-size: 14px;
+}
+
+h5{
+  font-size: 14px;
+}
+
+h4{
+  font-size: 16px;
+}
+
+
+
+
+
+
+
